@@ -18,9 +18,9 @@
     </div>
     <div class="text-xs p-4 items-center text-slate-600 flex justify-between">
       <span>26 Oktober 2022</span>
-      <button class="bg-blue-50 text-blue-700 rounded-md p-2">
+      <NuxtLink :to="`/ujian/${randomId}/`" class="bg-blue-50 text-blue-700 rounded-md p-2">
         <ArrowRightIcon class="h-5 w-5"></ArrowRightIcon>
-      </button>
+      </NuxtLink>
     </div>
   </div>
 </template>
