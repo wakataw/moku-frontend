@@ -2,10 +2,10 @@
 
 </template>
 
-<script>
-export default {
-  name: "[id].vue"
-}
+<script setup>
+  definePageMeta({
+    layout: "exam",
+  })
 </script>
 
 <style scoped>
