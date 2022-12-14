@@ -1,0 +1,40 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "title": "Uji Kompetensi Kenaikan Peringkat Jabatan",
+      "shortDescription": "Bagi Pejabat Fungsional Pemeriksa Pajak",
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim minima molestiae omnis praesentium quae quisquam. Adipisci architecto asperiores aspernatur assumenda esse expedita fugit in modi, nemo obcaecati officiis perferendis perspiciatis quae quaerat, quo quod repellendus repudiandae sint ut vitae! At consequuntur cumque deleniti dignissimos doloremque dolores eveniet laborum sint velit?",
+      "duration": 3600,
+      "totalExams": 2,
+      "startDate": "12 Desember 2022 12:00",
+      "endDate": "12 Desember 2022 13:00"
+    },
+    {
+      "id": 2,
+      "title": "Uji Kompetensi Kenaikan Peringkat Jabatan",
+      "shortDescription": "Bagi Pelaksana, Account Representative, dan Penelaah Keberatan",
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim minima molestiae omnis praesentium quae quisquam. Adipisci architecto asperiores aspernatur assumenda esse expedita fugit in modi, nemo obcaecati officiis perferendis perspiciatis quae quaerat, quo quod repellendus repudiandae sint ut vitae! At consequuntur cumque deleniti dignissimos doloremque dolores eveniet laborum sint velit?",
+      "duration": 3600,
+      "totalExams": 2,
+      "startDate": "12 Desember 2022 12:00",
+      "endDate": "12 Desember 2022 13:00"
+    }
+  ],
+  "exams": [
+    {
+      "title": "Uji Kompetensi Kenaikan Jenjang",
+      "duration": 3600,
+      "totalQuestions": 90,
+      "id": 1,
+      "packageId": 1
+    },
+    {
+      "title": "Test DISC",
+      "duration": 3600,
+      "totalQuestions": 90,
+      "id": 2,
+      "packageId": 1
+    }
+  ]
+}

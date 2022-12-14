@@ -1,7 +1,6 @@
 <template>
   <div>
     <Nav></Nav>
-    <CourseHeader></CourseHeader>
     <slot></slot>
   </div>
 </template>
